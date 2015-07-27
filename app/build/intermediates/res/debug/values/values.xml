@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Olga/AndroidStudioProjects/UltimateDelfie/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_camera">Camera</string>
+    <string name="album_name">CameraSample2</string>
+    <string name="app_name">Delfie</string>
+    <string name="cannot">Cannot</string>
+</resources>

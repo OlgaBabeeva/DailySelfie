@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Delfie</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample2</string>
+    <string name="action_camera">Camera</string>
+
+</resources>
